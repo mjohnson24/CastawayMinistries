@@ -101,52 +101,20 @@ include ('includes/config.php');
         <!-- Features START here -->
         <div class="box">
           <h2>Welcome to Castaway Ministries</h2>
-          <blockquote>
-            <p>WHAT GOD WILL DO FOR YOU WHEN YOU STAY THE COURSE</p>
-          </blockquote>
         </div>
         <!-- Features END here --> 
         
         <!-- Who-We-Are Box START here -->
-        <div class="box">
-          <h4>Psalm 113:7-8</h4>
-          <blockquote>
-            <p>&ldquo;He raises the poor out of the dust, And lifts the needy out of the ash heap. That He may seat him with princes, With the princes of His people.&rdquo;</p>
-          </blockquote>
-        </div>
+        
         <!-- Who-We-Are Box END here --> 
         <!-- Testimonial Box START here -->
         <div class="box">
           <h4>who we are ?</h4>
-          <img src="images/who.jpg" alt="" class="round" />
-          <p>Castaway Ministries is a God birthed vision into the heart of Gary Cavalier in the late 1990's to give men and women who are incarcerated, no matter the reason, a better chance to succeed in life when their sentence is over. It is not for everyone, only those who have a sincere desire to change their way of life, and who have no place to go when released from prison. It is not a place for those who are not serious about life. It is a place for those who want to become a better person and do their part to make this world a better and a safer place for our children and grandchildren. We will not blame the system, races, sexes, religions, governments, or anyone else but we will step up to the plate and be responsible before men and God for our actions; past, present, and future.</p>
-          <p>We believe that the blame lies squarely in the mirror, no matter who is looking into it, including myself. It is not a <b>hand out</b> welfare program, but a <b>hand up</b> ministry, an opportunity driven ministry, teaching basic and advanced life principles based solely on the Word of God. Christ is the center of who we are, what we do, and all that we will ever be, no exceptions! If ever there be any good thing to be said of this ministry and its staff and participants, it is only because of Jesus Christ and none other. To Him be all the glory and honor forever and ever!</p>
-          <a href="<?php echo $nav_about ?>" class="more">Learn More</a> </div>
+          <p>As of august, Castaway ministries has moved out focus to working with Widows and Orphans. If you have any questions as to what services we provide, please contact us <a href="<?php echo $nav_contact ?>">here</a>.</p>
         <!-- Who-We-Are Box END here --> 
       </div>
       <!-- Main-Colum END here --> 
-      <!-- Sidebar START here -->
-      <div id="sidebar">
-        <div class="sb_header">
-          <h3>Prayer Points</h3>
-        </div>
-        <div class="prayer_points_list">
-          <ul>
-            <li>God's strength for those committing to come to stay true to their word.</li>
-            <br />
-            <li>For continued favor with God and man.</li>
-            <br />
-            <li>Wisdom for myself, family, and our Board of Directors as we lead the way for these men to follow.</li>
-            <br />
-            <li>Total and complete healing for Sheila.</li>
-            <br />
-            <li>For more faithful monthly supporters, i.e. churches, businesses, and individuals.</li>
-            <br />
-          </ul>
-        </div>
-      </div>
-      <!-- Sidebar START here -->
-      <div class="clear"></div>
+      
     </div>
     <!-- Container END here --> 
   </div>
