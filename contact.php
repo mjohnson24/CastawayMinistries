@@ -109,29 +109,11 @@ include ('includes/config.php');
       </div>
       <div class="widget"> 
         <!-- class="current" -->
-        Castaway Ministries<br />
-		P.O. Box 17629<br />
-		Shreveport, LA 71138<br />
-		Office: 318-938-5221<br />
+        Gary Cavalier<br />
+		Cell: 318-617-8123<br />
 		email: <a href="mailto:gary@castawayministries.com">gary@castawayministries.com</a><br />
       </div>
-      <div class="sb_header" style="margin-top: 20px">
-        <h3>Prayer Points</h3>
-      </div>
-      <div class="widget">
-        <ul>
-          <li>God's strength for those committing to come to stay true to their word.</li>
-          <br />
-          <li>For continued favor with God and man.</li>
-          <br />
-          <li>Wisdom for myself, family, and our Board of Directors as we lead the way for these men to follow.</li>
-          <br />
-          <li>Total and complete healing for Sheila.</li>
-          <br />
-          <li>For more faithful monthly supporters, i.e. churches, businesses, and individuals.</li>
-          <br />
-        </ul>
-      </div>
+      
       </div>
       <!-- Sidebar START here -->
       <div class="clear"></div>
