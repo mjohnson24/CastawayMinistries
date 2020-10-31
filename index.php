@@ -109,7 +109,6 @@ include ('includes/config.php');
         <!-- Who-We-Are Box END here --> 
         <!-- Testimonial Box START here -->
         <div class="box">
-          <h4>who we are ?</h4>
           <p>As of august, Castaway ministries has moved out focus to working with Widows and Orphans. If you have any questions as to what services we provide, please contact us <a href="<?php echo $nav_contact ?>">here</a>.</p>
         <!-- Who-We-Are Box END here --> 
       </div>
